@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 240, 228);
+    background-image: url("../images/background.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(54, 32, 1);
+    text-align: center;
+}
+
+div {
+   
+}
+
+.mint {
+    color: rgb(157, 240, 212);
+    background-color: rgb(230, 253, 246);
+}
+
+.milk {
+    background-color: mintcream;
+}
+
+.jelly {
+    background-color: rgb(255, 245, 224);
+}
+
+button {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
