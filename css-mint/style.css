@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(231, 250, 243);
+}
+
+h1 {
+    color: rgb(5, 170, 115);
+    font-size: 60px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(89, 201, 163);
+    font-size: 30px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    text-align: center;
+}
+
+span {
+    color: rgb(107, 64, 37);
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serifS;
+    font-size: 20px;
+}
