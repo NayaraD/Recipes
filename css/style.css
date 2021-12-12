@@ -44,5 +44,9 @@ p {
 
 a:link {
     text-decoration: none;
-    color: #f8e6ce
+    color: #f8e6ce;
 }
+
+a:visited {
+    color: #f8e6ce
+  }
