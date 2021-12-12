@@ -3,6 +3,7 @@ body {
     background-image: url("../images/background.webp");
     background-repeat: no-repeat;
     background-position: center center;
+    margin-top: auto;
 }
 
 h1 {
@@ -16,24 +17,32 @@ div {
 }
 
 .mint {
-    color: rgb(157, 240, 212);
-    background-color: rgb(230, 253, 246);
+  background-color: transparent
+  border: 2px solid #f8e6ce;
 }
 
 .milk {
-    background-color: mintcream;
+  
 }
 
 .jelly {
-    background-color: rgb(255, 245, 224);
+  background-color: transparent
+  border: 2px solid #f8e6ce;
 }
 
 button {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
+    background-color: transparent;
+    border: 4px solid #f8e6ce;
 }
 
 p {
     text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: #f8e6ce
 }
